@@ -1,3 +1,6 @@
+
+// example from: https://docs.nvidia.com/cuda/cublas/index.html
+
 //Example 2. Application Using C and cuBLAS: 0-based indexing
 //-----------------------------------------------------------
 #include <stdio.h>
